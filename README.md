@@ -29,6 +29,8 @@ This app highlights my ability to:
 * User can select answers and track progress
 * Summary page with correct and incorrect answers
 * Settings page for customization
+* Behind the scenes - Continuous Integration (CI): This project uses GitHub Actions to automate testing and ensure code quality. On every 
+  push to the main branch, the CI pipeline runs Jest tests to catch any bugs or errors, ensuring that the code is stable and reliable.
 
 Technologies Used
 --------------------
