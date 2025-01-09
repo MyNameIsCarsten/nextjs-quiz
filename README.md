@@ -3,6 +3,8 @@
 
 A comprehensive quiz application built with React, Next.js, and Redux-like state management.
 
+![GIF](./public/Next quiz.gif)
+
 This app highlights my ability to:
 * Build complex applications with React and Next.js
 * Implement Redux-like state management
