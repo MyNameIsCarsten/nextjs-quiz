@@ -1,0 +1,48 @@
+.summarybox {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    border: 1px solid white;
+    padding: 1rem;
+}
+
+.percent {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.seperator {
+    background-color: white;
+    width: 1px;
+    height: 100px;
+}
+
+.summary {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.summaryline {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.whitecircle {
+    background-color: white;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    margin: 5px 10px;
+    text-align: center;
+}
+
+.summary span {
+    color: #10162F;
+    -moz-border-radius: 50px;
+    display: inline-block;
+    position: relative;
+    top: 3px;
+}

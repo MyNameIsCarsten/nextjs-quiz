@@ -1,0 +1,31 @@
+.answer {
+    border: 1px solid #2d5dcc;
+    background-color: #141C3A;
+    margin: 1rem 0;
+    border-radius: 2px;
+    /* min-height: 4em; */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    width: 100%;
+    cursor: pointer;
+    text-align: left;
+    transition: .25s;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    color: #4fe0b0;
+    font-size: 1rem;
+    font-weight: 700;
+    padding: 2rem;
+}
+
+.true {
+    border-color: #3eb38c;
+    background-color: #164032;
+}
+
+.false {
+    border-color: #e53935;
+    background-color: #661917;
+}
